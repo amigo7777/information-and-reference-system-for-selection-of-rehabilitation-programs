@@ -5,6 +5,10 @@ class RegistrationWidget extends StatefulWidget {
   State<RegistrationWidget> createState() => _RegistrationWidgetState();
 }
 
+/// регистрация еще не реализована на сервере 
+/// и в данный момент представляет исключительно виджет
+/// пользовательского интерфейса
+
 class _RegistrationWidgetState extends State<RegistrationWidget> {
   // const SecondRoute({super.key});
   bool _isobscure = true;
